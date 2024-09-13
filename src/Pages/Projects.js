@@ -27,7 +27,7 @@ function Projects() {
               imgPath={internship}
               title="Tagging-System"
               description="Tagging System is a MERN stack project enabling users to interact with components through a view and upload system. It features a commenting system with like/dislike functionality and an upload page with tagging and image previews managed via Cloudinary and MongoDB. The profile page allows users to update information and view their uploaded components, ensuring seamless frontend-backend integration."
-              link="https://github.com/Manthan600/Tagging-system"
+              link="https://github.com/vedang1010/Tagging-system"
             />
           </Col>
           <Col md={6} className="project-card">
