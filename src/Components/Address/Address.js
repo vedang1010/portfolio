@@ -31,13 +31,13 @@ function Address() {
 
            <h4 >Phone Number</h4> 
               
-              <p>  <AiOutlineWhatsApp/> +91 9326427605</p>
+              <p>  <AiOutlineWhatsApp/> +91 7306993085</p>
               </Col>
               <Col md={6} className="contact-address">
               <h4 >Email Address</h4> 
               <p>
                 
-                <AiOutlineMail/> vedangkhedekar07@gmail.com
+                <AiOutlineMail/> sijeeshmiziha1@gmail.com
               </p>
               </Col>
 
@@ -47,7 +47,8 @@ function Address() {
               <h1>Contact Me</h1>
               <span>
                 I am available on almost every social media. You can message me,
-                I will reply within 24 hours.
+                I will reply within 24 hours. I can help you with JavaScript,
+                React, Node and Opensource Development.
               </span>
               <br/>
               <p>
@@ -56,7 +57,7 @@ function Address() {
               <ul className="home-about-social-links">
                 <li className="social-icons">
                   <a
-                    href="https://github.com/vedang1010"
+                    href="https://github.com/sijeeshmiziha"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -67,7 +68,7 @@ function Address() {
 
                 <li className="social-icons">
                   <a
-                    href="https://www.linkedin.com/in/vedang-khedekar/"
+                    href="https://www.linkedin.com/in/sijeeshmiziha/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -78,7 +79,7 @@ function Address() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="https://wa.me/7306993085/"
+                    href="https://wa.me/9326427605/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -89,7 +90,7 @@ function Address() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="https://www.instagram.com/vedang_18/"
+                    href="https://www.instagram.com/sijeeshmiziha/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour home-social-icons"
