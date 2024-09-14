@@ -37,7 +37,7 @@ function Address() {
               <h4 >Email Address</h4> 
               <p>
                 
-                <AiOutlineMail/> sijeeshmiziha1@gmail.com
+                <AiOutlineMail/> khedekarvp21.comp@coeptech.ac.in
               </p>
               </Col>
 
@@ -57,7 +57,7 @@ function Address() {
               <ul className="home-about-social-links">
                 <li className="social-icons">
                   <a
-                    href="https://github.com/sijeeshmiziha"
+                    href="https://github.com/vedang1010"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -68,7 +68,7 @@ function Address() {
 
                 <li className="social-icons">
                   <a
-                    href="https://www.linkedin.com/in/sijeeshmiziha/"
+                    href="https://www.linkedin.com/in/vedang-khedekar/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
@@ -90,7 +90,7 @@ function Address() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="https://www.instagram.com/sijeeshmiziha/"
+                    href="https://www.instagram.com/vedang_18/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour home-social-icons"
